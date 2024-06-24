@@ -50,6 +50,7 @@ public class JDBCUtilsByDruid {
                 connection.close();
             }
         } catch (SQLException e) {
+
             e.printStackTrace();
         }
     }
