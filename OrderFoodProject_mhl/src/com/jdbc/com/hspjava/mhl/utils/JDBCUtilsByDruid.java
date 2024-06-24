@@ -27,6 +27,7 @@ public class JDBCUtilsByDruid {
             properties.load(new FileInputStream("E:\\hspjava\\mhl\\OrderFoodProject_mhl\\src\\druid.properties"));
             ds = DruidDataSourceFactory.createDataSource(properties);
         } catch (Exception e) {
+
             e.printStackTrace();
         }
     }
