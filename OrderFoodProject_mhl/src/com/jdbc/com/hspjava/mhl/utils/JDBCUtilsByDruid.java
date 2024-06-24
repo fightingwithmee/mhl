@@ -46,6 +46,7 @@ public class JDBCUtilsByDruid {
                 statement.close();
             }
             if(connection != null){
+
                 connection.close();
             }
         } catch (SQLException e) {
