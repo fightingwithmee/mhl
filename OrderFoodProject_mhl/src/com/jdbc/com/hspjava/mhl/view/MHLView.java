@@ -10,7 +10,7 @@ import java.util.List;
 import java.util.Scanner;
 
 /**
- * @autho 韩顺平
+ * @autho 李子文
  * @versio 1.0
  */
 public class MHLView {

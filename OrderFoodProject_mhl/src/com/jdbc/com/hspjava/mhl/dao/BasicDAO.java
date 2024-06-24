@@ -11,7 +11,7 @@ import java.sql.SQLException;
 import java.util.List;
 
 /**
- * @autho 韩顺平
+ * @autho 李子文
  * @versio 1.0
  */
 public class BasicDAO<T> {

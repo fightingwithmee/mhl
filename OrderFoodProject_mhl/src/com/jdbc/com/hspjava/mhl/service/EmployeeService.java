@@ -4,7 +4,7 @@ import com.hspedu.com.hspjava.mhl.dao.EmployeeDAO;
 import com.hspedu.com.hspjava.mhl.domain.Employee;
 
 /**
- * @autho 韩顺平
+ * @autho 李子文
  * @versio 1.0
  */
 public class EmployeeService {

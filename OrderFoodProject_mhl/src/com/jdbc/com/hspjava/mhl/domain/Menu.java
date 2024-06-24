@@ -1,7 +1,7 @@
 package com.hspedu.com.hspjava.mhl.domain;
 
 /**
- * @autho 韩顺平
+ * @autho 李子文
  * @versio 1.0
  */
 public class Menu {

@@ -3,7 +3,7 @@ package com.hspedu.com.hspjava.mhl.domain;
 import java.util.Date;
 
 /**
- * @autho 韩顺平
+ * @autho 李子文
  * @versio 1.0
  */
 public class MultiTableBean {
